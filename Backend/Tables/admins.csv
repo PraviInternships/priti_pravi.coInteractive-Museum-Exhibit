@@ -1,0 +1,4 @@
+"id","username","password_hash","role"
+1,"admin@gmail.com","123456789","admin"
+2,"testadmin@gmail.com","123456789","admin"
+3,"demoadmin@gmail.com","123456789","manager"
